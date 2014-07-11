@@ -29,16 +29,4 @@ class EmployeeFilter
   end
 
 
-
-  #
-  # info = []
-  # @employees.each do |employee_hash|
-  #   first = employee_hash[:first_name]
-  #   last = employee_hash[:last_name]
-  #   title = employee_hash[:title]
-  #   start_date = employee_hash[:start_date].display_time
-  #   info << "#{first} #{last} #{title} - #{start_date}"
-  # end
-  # info
-
 end
